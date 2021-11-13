@@ -3,6 +3,9 @@ Trash all JPGs inside a folder for mac's Quick Action
 
 ![Quick Action](assets/quick-action.png)
 
+# Download
+[Trash JPG Shortcut v1.0](https://github.com/mchaelhuang/trash-jpg/releases/download/v1.0/Trash.JPG.shortcut.zip)
+
 # Compatibility
 MacOS Monterey Shortcuts
 
